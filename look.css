@@ -1,0 +1,289 @@
+#dao{
+	background-color: #000000;
+	height: 40px;
+	margin-top: 10px;
+}
+#dao-in{
+	width: 1180px;
+	margin:0 auto; 
+}
+#dao-in a{
+	float: left;
+	padding: 8px 33px;
+	color: #fff;
+}
+#dao-in img{
+	float: right;
+}
+#dao-in .to{
+	background-color: #fe0d4a;
+}
+#body2{
+	background-color:#f6f5f4;
+}
+#neirong{
+	width: 1180px;
+	margin: 0 auto;
+	background-color: #f6f5f4;
+}
+#biaoti1{
+	padding:8px 0;
+	background-color: #f6f5f4;
+	font-size: 12px;
+}
+#biaoti-zuo{
+	width: 980px;
+	height: 625px;
+	background-color: #fff;
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+}
+#zuo-img
+{
+	margin: 20px;
+	width: 410px;
+	float: left;
+
+}
+#big-img{
+
+	border:1px solid #d0cdc7;
+	margin-bottom: 20px;:  
+
+}
+.biankuang{
+	border:1px solid #ff9003;
+}
+#tupian4{
+	float: right;
+}
+#you-wenzi{
+	float: left;
+	width: 500px;
+	margin-top: 20px;
+
+}
+#you-wenzi h3{
+	font-weight: normal;
+}
+#wenzi1{
+	font-size: 12px;
+	color: #676660;
+	margin-top: 5px;
+	line-height: 20px;
+}
+#you-wenzi span{
+	font-size: 12px;
+	margin-top: 8px;
+	font-weight: bold;
+}
+
+ #you-wenzi #new-price{
+	color: #ff0000;
+	font-size: 20px;
+	margin-left: 50px;
+}
+#price{
+	margin-left: 15px;
+}
+.span1{
+	margin-left: 20px;
+}
+
+.ml{
+	width: 60px;
+	height: 28px;
+	display: inline-block;	
+	text-align: center;
+	line-height: 28px;
+	vertical-align: top;
+	margin-left: 10px;
+	cursor: pointer;
+}
+#click{
+	border: 1px solid #ff0853;
+	background: url(img/duigou.png) no-repeat bottom right;
+}
+#shuliang{
+	vertical-align: middle;
+	margin-right: 50px;
+}
+#shuliang2{
+	margin-left: 20px;
+}
+#count{
+	display: inline-block;
+	vertical-align: middle;
+}
+#count div{
+	float: left;
+	width: 24px;
+	height: 27px;
+	border:1px solid #cecbc5;
+	text-align: center;
+	line-height: 27px;
+}
+#count #teshu{
+	width: 50px;
+	float: left;
+	height: 25px;
+	text-align: center;
+
+}
+.lala{
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+.lala #xiaoliang{
+	color: #ff0457;
+}
+#bu-hui-qu-ming{
+	display: inline-block;
+	margin-left: 45px; 
+	vertical-align: top;
+}
+#tit{
+
+	vertical-align: top;
+}
+#bu-hui-qu-ming span{
+}
+#tijiao{
+
+}
+#tijiao div{
+	height: 38px;
+	width: 148px;
+	border: 1px solid #ff0754;
+	display: inline-block;
+	text-align: center;
+	line-height: 38px;
+	color: #ff0754;
+
+}
+
+#tijiao #gouwuche{
+	background-color: #ff0754;
+	color: #fff;
+	cursor: pointer;
+}
+#biaoti-you{
+	display: inline-block;
+	vertical-align: middle;
+}
+#dittuo{
+	width: 1180px;
+	margin: 0 auto;
+}
+
+
+
+#img1{
+	width:408px;
+	height:408px;
+	position: relative;
+}
+#slider{
+	width:204px;
+	height:204px;
+	position:absolute;
+	left:0;
+	top:0;
+	background:#CCC;
+	opacity:0.4;
+	cursor: move;
+	display:none;
+	filter:alpha(opacity=40);
+}
+#img2{
+	position:absolute;
+	top: 20px;
+	left:430px;
+	display:none;
+	width:408px;
+	height:408px;
+	overflow:hidden;
+	border: 1px solid #d0cdc7;
+}
+#Bimg{
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+#dilan{
+	margin-top: 20px;
+}
+#dilan div{
+	float: left;
+}
+#dilan .tupian4{
+	float: right;
+}
+#card{
+	width: 100%;
+	height:100%;
+	background:black;
+	z-index: 1000;
+}
+#success{
+
+}
+#count div{
+	cursor: pointer;
+}
+#count #zuo{
+	cursor: not-allowed;
+}
+#background{
+	width: 100%;
+	height:1300px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background-color:	#858585;
+	opacity: 0.6;
+	display: none;
+}
+#xiaokuang{
+	display: none;
+	position: absolute;
+	left: 50%;
+	margin-left: -200px;
+	top: 280px;
+	width: 405px;
+	height: 240px;
+	background-color: #fff;
+	border:3px solid #aca9d3;
+}
+#x{
+	float: right;
+	margin: 0 10px;
+	font-size: 30px;
+	cursor: pointer;
+}
+#xiaokuang #img{
+	float: right;
+	width: 400px;
+	height: 92px;
+}
+#xia{
+	float: left;
+}
+#xia div{
+	width: 150px;
+	height: 40px;
+	background-color: #fff;
+	text-align: center;
+	line-height: 40px;
+	float: left;
+	border:1px solid #ff0754;
+	color: #ff0754;
+	margin-left: 35px;
+	border-radius: 3px;
+	cursor: pointer;
+}
+#xia #jiesuan{
+	background-color: #ff0754;
+	color: #fff;
+}
